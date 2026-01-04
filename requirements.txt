@@ -1,0 +1,29 @@
+streamlit
+pandas
+
+# Groq API
+groq
+
+# Core LangGraph and LangChain packages
+langgraph
+langchain
+langchain-core
+langchain-community
+
+# Groq LLM integration
+langchain-groq
+langchain-tavily
+
+# Web search tool
+tavily-python
+
+# Environment variables
+python-dotenv
+
+# Data validation
+pydantic
+typing-extensions
+langgraph-cli
+
+# # Optional: For better development experience
+# langchain-cli>=0.0.15

@@ -2,7 +2,7 @@
 
 ***
 
-# Realtime News MCP Server
+# Realtime News/Information MCP Server on Any Topic
 
 This repository contains a simple Model Context Protocol (MCP) server that exposes tools for fetching realtime news information and generating video-ready scripts from that news.
 
@@ -100,6 +100,7 @@ Once connected from an MCP client, you can call:
 - Install dependencies as described above.
 - Modify `app.py` to point to your preferred news/search APIs and your video script generation logic.
 - Optionally configure Git hooks using the provided `*.sample` files if you want pre-push or update checks.
+
 
 
 
